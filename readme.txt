@@ -5,7 +5,7 @@ figma link:
 https://www.figma.com/design/oOgDaqEp88mR5RYG2aYCUW/dvg1-e-Noa-Dhondt---Web-Scripting-Eindopdracht?node-id=1-3&t=0nvMm92qWkWUn37E-1
 
 ## Live website
-https://dhondtnoa-crypto.github.io/skincare-quiz-eindopdracht/
+https://dhondtnoa-crypto.github.io/skincare-quiz_eindopdracht/
 
 Chatgpt prompt voor skintypes: 
 
